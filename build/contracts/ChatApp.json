@@ -16230,12 +16230,12 @@
     "1737546905539": {
       "events": {},
       "links": {},
-      "address": "0xb605697eA6C9482F6a5422f0a26Cc50F01DC96F5",
-      "transactionHash": "0x5b00491bf0d15f8bed3b7f44d0673bd007d796f580c522bdbe9c4a71a7194ee9"
+      "address": "0x5DFd5eBcc3b467Ded20D14eeCB6813B520CE4389",
+      "transactionHash": "0x1fedd5b3d61fb6496e2ac63373455227d614ec03df4e54e22381ad0919ce8b92"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-22T11:57:54.921Z",
+  "updatedAt": "2025-01-23T07:39:23.555Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
